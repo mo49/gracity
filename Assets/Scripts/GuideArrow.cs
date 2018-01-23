@@ -22,7 +22,7 @@ public class GuideArrow : MonoBehaviour {
 				enemyTag = "Monster/Dragon";
 				break;
 			case "Practice":
-				enemyTag = "MobCharacter";
+				enemyTag = "Monster/Dragon";
 				break;
 			default:
 				enemyTag = null;

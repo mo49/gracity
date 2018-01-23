@@ -7,6 +7,8 @@ public class MobCharacter : MonoBehaviour {
 	[SerializeField] bool isInvincible = false;
 	[SerializeField] bool lookAtPlayer = true;
 
+	bool isJoined = false;
+
 	Animator m_animator;
 	GameObject player;
 
@@ -14,16 +16,19 @@ public class MobCharacter : MonoBehaviour {
 		m_animator = GetComponent<Animator> ();
 	}
 
-	void OnJoinedRoom() {
-		player = GameObject.FindGameObjectWithTag ("camerarig");
-		StartCoroutine ("UpdateRot");
+	void Update() {
+		if(!isJoined) {
+			return;
+		}
+		if (!lookAtPlayer) {
+			return;
+		}
+		transform.LookAt (player.transform);
 	}
 
-	IEnumerator UpdateRot() {
-		while(true) {
-			transform.LookAt (player.transform);
-			yield return null;
-		}
+	void OnJoinedRoom() {
+		player = GameObject.FindGameObjectWithTag ("camerarig");
+		isJoined = true;
 	}
 
 	void OnTriggerEnter(Collider i_other) {

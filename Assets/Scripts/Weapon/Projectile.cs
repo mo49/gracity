@@ -40,7 +40,9 @@ public class Projectile : Photon.MonoBehaviour {
 				ShowDamageEffect ();
 				NetworkAudio.SendPlayClipAtPoint(hitSound, transform.position, 1.0f);
 
-				other.GetComponent<PhotonView>().RPC ("GetHit", PhotonTargets.All, gameObject.tag);
+				if (other.GetComponent<PhotonView> () != null) {
+					other.GetComponent<PhotonView>().RPC ("GetHit", PhotonTargets.All, gameObject.tag);
+				}
 
 				GetComponent<PhotonView> ().TransferOwnership (PhotonNetwork.player.ID);
 				PhotonNetwork.Destroy (gameObject);

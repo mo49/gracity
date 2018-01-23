@@ -5,11 +5,25 @@ using UnityEngine;
 public class MobCharacter : MonoBehaviour {
 
 	[SerializeField] bool isInvincible = false;
+	[SerializeField] bool lookAtPlayer = true;
 
 	Animator m_animator;
+	GameObject player;
 
 	void Start() {
 		m_animator = GetComponent<Animator> ();
+	}
+
+	void OnJoinedRoom() {
+		player = GameObject.FindGameObjectWithTag ("camerarig");
+		StartCoroutine ("UpdateRot");
+	}
+
+	IEnumerator UpdateRot() {
+		while(true) {
+			transform.LookAt (player.transform);
+			yield return null;
+		}
 	}
 
 	void OnTriggerEnter(Collider i_other) {

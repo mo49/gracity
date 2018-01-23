@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  - bullet
+  - Fire
+  - projectile
+  - TeleportIgnore
+  - magic
+  - weapon
+  - beach
+  - battle
+  - camerarig
+  - godray
+  - Magic/Thunder
+  - Magic/Fire
+  - Magic/Ice
+  - Bullet/Gun
+  - Magic/Dark
+  - Monster/Dragon
+  - MonsterSpawn
+  - MainPlayer
+  - MobCharacter
+  - MainPlayerAvatar
+  - OtherPlayerAvatar
+  - GravityCrystal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

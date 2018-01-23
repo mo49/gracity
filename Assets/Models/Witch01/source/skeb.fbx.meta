@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: fb0d3c4387ff15643932f465ce43ee4e
+timeCreated: 1515429767
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: apple_Subdivision_Surface_1
+    100002: apple_Subdivision_Surface_Cube
+    100004: apple_Subdivision_Surface_Cube 1
+    100006: Bip01
+    100008: Bip01-Head
+    100010: Bip01-HeadNub
+    100012: Bip01-L-Calf
+    100014: Bip01-L-Clavicle
+    100016: Bip01-L-Finger0
+    100018: Bip01-L-Finger01
+    100020: Bip01-L-Finger02
+    100022: Bip01-L-Finger0Nub
+    100024: Bip01-L-Finger1
+    100026: Bip01-L-Finger11
+    100028: Bip01-L-Finger12
+    100030: Bip01-L-Finger1Nub
+    100032: Bip01-L-Finger2
+    100034: Bip01-L-Finger21
+    100036: Bip01-L-Finger22
+    100038: Bip01-L-Finger2Nub
+    100040: Bip01-L-Finger3
+    100042: Bip01-L-Finger31
+    100044: Bip01-L-Finger32
+    100046: Bip01-L-Finger3Nub
+    100048: Bip01-L-Finger4
+    100050: Bip01-L-Finger41
+    100052: Bip01-L-Finger42
+    100054: Bip01-L-Finger4Nub
+    100056: Bip01-L-Foot
+    100058: Bip01-L-Forearm
+    100060: Bip01-L-Hand
+    100062: Bip01-L-Thigh
+    100064: Bip01-L-Toe0
+    100066: Bip01-L-Toe0Nub
+    100068: Bip01-L-UpperArm
+    100070: Bip01-Neck
+    100072: Bip01-Pelvis
+    100074: Bip01-Ponytail1
+    100076: Bip01-Ponytail11
+    100078: Bip01-Ponytail12
+    100080: Bip01-Ponytail13
+    100082: Bip01-Ponytail1Nub
+    100084: Bip01-Ponytail2
+    100086: Bip01-Ponytail21
+    100088: Bip01-Ponytail22
+    100090: Bip01-Ponytail23
+    100092: Bip01-Ponytail2Nub
+    100094: Bip01-Prop1
+    100096: Bip01-R-Calf
+    100098: Bip01-R-Clavicle
+    100100: Bip01-R-Finger0
+    100102: Bip01-R-Finger01
+    100104: Bip01-R-Finger02
+    100106: Bip01-R-Finger0Nub
+    100108: Bip01-R-Finger1
+    100110: Bip01-R-Finger11
+    100112: Bip01-R-Finger12
+    100114: Bip01-R-Finger1Nub
+    100116: Bip01-R-Finger2
+    100118: Bip01-R-Finger21
+    100120: Bip01-R-Finger22
+    100122: Bip01-R-Finger2Nub
+    100124: Bip01-R-Finger3
+    100126: Bip01-R-Finger31
+    100128: Bip01-R-Finger32
+    100130: Bip01-R-Finger3Nub
+    100132: Bip01-R-Finger4
+    100134: Bip01-R-Finger41
+    100136: Bip01-R-Finger42
+    100138: Bip01-R-Finger4Nub
+    100140: Bip01-R-Foot
+    100142: Bip01-R-Forearm
+    100144: Bip01-R-Hand
+    100146: Bip01-R-Thigh
+    100148: Bip01-R-Toe0
+    100150: Bip01-R-Toe0Nub
+    100152: Bip01-R-UpperArm
+    100154: Bip01-Spine
+    100156: Bip01-Spine1
+    100158: Bip01-Tail
+    100160: Bip01-Tail1
+    100162: Bip01-Tail2
+    100164: Bip01-Tail3
+    100166: Bip01-TailNub
+    100168: Bone01
+    100170: Bone02
+    100172: Bone02(mirrored)
+    100174: Bone03
+    100176: Bone04
+    100178: Bone05
+    100180: Bone05(mirrored)
+    100182: Bone06
+    100184: Bone06(mirrored)
+    100186: Bone07
+    100188: Bone08
+    100190: Bone08(mirrored)
+    100192: Bone09
+    100194: Bone09(mirrored)
+    100196: Bone10
+    100198: Bone10(mirrored)
+    100200: Bone11
+    100202: Bone11(mirrored)
+    100204: Bone12
+    100206: Bone13
+    100208: Bone15
+    100210: Bone16
+    100212: Cylinder001
+    100214: Cylinder002
+    100216: Dummy_root
+    100218: Dummy_root 1
+    100220: FxBottom
+    100222: FxBottom 1
+    100224: FxCenter
+    100226: FxHand00
+    100228: FxHand01
+    100230: FxTop
+    100232: IK Chain001
+    100234: //RootNode
+    100236: WitchApprentice_Top_skel
+    400000: apple_Subdivision_Surface_1
+    400002: apple_Subdivision_Surface_Cube
+    400004: apple_Subdivision_Surface_Cube 1
+    400006: Bip01
+    400008: Bip01-Head
+    400010: Bip01-HeadNub
+    400012: Bip01-L-Calf
+    400014: Bip01-L-Clavicle
+    400016: Bip01-L-Finger0
+    400018: Bip01-L-Finger01
+    400020: Bip01-L-Finger02
+    400022: Bip01-L-Finger0Nub
+    400024: Bip01-L-Finger1
+    400026: Bip01-L-Finger11
+    400028: Bip01-L-Finger12
+    400030: Bip01-L-Finger1Nub
+    400032: Bip01-L-Finger2
+    400034: Bip01-L-Finger21
+    400036: Bip01-L-Finger22
+    400038: Bip01-L-Finger2Nub
+    400040: Bip01-L-Finger3
+    400042: Bip01-L-Finger31
+    400044: Bip01-L-Finger32
+    400046: Bip01-L-Finger3Nub
+    400048: Bip01-L-Finger4
+    400050: Bip01-L-Finger41
+    400052: Bip01-L-Finger42
+    400054: Bip01-L-Finger4Nub
+    400056: Bip01-L-Foot
+    400058: Bip01-L-Forearm
+    400060: Bip01-L-Hand
+    400062: Bip01-L-Thigh
+    400064: Bip01-L-Toe0
+    400066: Bip01-L-Toe0Nub
+    400068: Bip01-L-UpperArm
+    400070: Bip01-Neck
+    400072: Bip01-Pelvis
+    400074: Bip01-Ponytail1
+    400076: Bip01-Ponytail11
+    400078: Bip01-Ponytail12
+    400080: Bip01-Ponytail13
+    400082: Bip01-Ponytail1Nub
+    400084: Bip01-Ponytail2
+    400086: Bip01-Ponytail21
+    400088: Bip01-Ponytail22
+    400090: Bip01-Ponytail23
+    400092: Bip01-Ponytail2Nub
+    400094: Bip01-Prop1
+    400096: Bip01-R-Calf
+    400098: Bip01-R-Clavicle
+    400100: Bip01-R-Finger0
+    400102: Bip01-R-Finger01
+    400104: Bip01-R-Finger02
+    400106: Bip01-R-Finger0Nub
+    400108: Bip01-R-Finger1
+    400110: Bip01-R-Finger11
+    400112: Bip01-R-Finger12
+    400114: Bip01-R-Finger1Nub
+    400116: Bip01-R-Finger2
+    400118: Bip01-R-Finger21
+    400120: Bip01-R-Finger22
+    400122: Bip01-R-Finger2Nub
+    400124: Bip01-R-Finger3
+    400126: Bip01-R-Finger31
+    400128: Bip01-R-Finger32
+    400130: Bip01-R-Finger3Nub
+    400132: Bip01-R-Finger4
+    400134: Bip01-R-Finger41
+    400136: Bip01-R-Finger42
+    400138: Bip01-R-Finger4Nub
+    400140: Bip01-R-Foot
+    400142: Bip01-R-Forearm
+    400144: Bip01-R-Hand
+    400146: Bip01-R-Thigh
+    400148: Bip01-R-Toe0
+    400150: Bip01-R-Toe0Nub
+    400152: Bip01-R-UpperArm
+    400154: Bip01-Spine
+    400156: Bip01-Spine1
+    400158: Bip01-Tail
+    400160: Bip01-Tail1
+    400162: Bip01-Tail2
+    400164: Bip01-Tail3
+    400166: Bip01-TailNub
+    400168: Bone01
+    400170: Bone02
+    400172: Bone02(mirrored)
+    400174: Bone03
+    400176: Bone04
+    400178: Bone05
+    400180: Bone05(mirrored)
+    400182: Bone06
+    400184: Bone06(mirrored)
+    400186: Bone07
+    400188: Bone08
+    400190: Bone08(mirrored)
+    400192: Bone09
+    400194: Bone09(mirrored)
+    400196: Bone10
+    400198: Bone10(mirrored)
+    400200: Bone11
+    400202: Bone11(mirrored)
+    400204: Bone12
+    400206: Bone13
+    400208: Bone15
+    400210: Bone16
+    400212: Cylinder001
+    400214: Cylinder002
+    400216: Dummy_root
+    400218: Dummy_root 1
+    400220: FxBottom
+    400222: FxBottom 1
+    400224: FxCenter
+    400226: FxHand00
+    400228: FxHand01
+    400230: FxTop
+    400232: IK Chain001
+    400234: //RootNode
+    400236: WitchApprentice_Top_skel
+    2300000: apple_Subdivision_Surface_1
+    2300002: apple_Subdivision_Surface_Cube
+    2300004: apple_Subdivision_Surface_Cube 1
+    2300006: Cylinder001
+    2300008: Cylinder002
+    3300000: apple_Subdivision_Surface_1
+    3300002: apple_Subdivision_Surface_Cube
+    3300004: apple_Subdivision_Surface_Cube 1
+    3300006: Cylinder001
+    3300008: Cylinder002
+    4300000: WitchApprentice_Top_skel
+    4300002: Cylinder001
+    4300004: Cylinder002
+    4300006: apple_Subdivision_Surface_1
+    4300008: apple_Subdivision_Surface_Cube
+    4300010: apple_Subdivision_Surface_Cube
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: WitchApprentice_Top_skel
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: b7e65fb097dd61a468f35f608d575308, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 794d5d5d2f5215646bf51bbae4843c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WitchApprentice_MI
+    second: {fileID: 2100000, guid: 5938870bf5ae4d3499dae90534ac340c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WitchApprentice_w_MI
+    second: {fileID: 2100000, guid: 7692959dfad585641b83ff7254659fa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _appledefault
+    second: {fileID: 2100000, guid: e843c5c19f0c82643b584c969131d28d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,21 +4,14 @@
 
 - タイトル：Gracity
 - ジャンル：オンラインマルチプレイ対戦ゲーム
-- 内容：中世風の街中を探索しながら、プレイヤー（魔法使い）は魔法の杖を拾って敵に攻撃する。重力ギミックを利用してゲームを楽しもう！
+- 内容：舞台は中世風の街並み。プレイヤー（魔法使い）は街中に散在する魔法の杖を取得し、遭遇した敵と対戦するゲーム。重量ギミックを利用して楽しもう！
 - モード：PvP / PvE / Practice
 - 環境：HTC Vive
 
 
 # デモ動画
 
-PvEモード  
-[![PvEモード](http://img.youtube.com/vi/M3Q4SWBYxDE/0.jpg)](http://www.youtube.com/watch?v=M3Q4SWBYxDE)
-
-練習モード  
-[![Practiceモード](http://img.youtube.com/vi/kAL5j9COP7s/0.jpg)](http://www.youtube.com/watch?v=kAL5j9COP7s)
-
-スタート画面  
-[![デモ動画](http://img.youtube.com/vi/lC63utbmdF4/0.jpg)](http://www.youtube.com/watch?v=lC63utbmdF4)
+[![Demo](http://img.youtube.com/vi/pft0-VGbpC4/0.jpg)](https://youtu.be/pft0-VGbpC4)
 
 
 

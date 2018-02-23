@@ -11,9 +11,9 @@
 
 # デモ動画
 
-[![Demo](http://img.youtube.com/vi/pft0-VGbpC4/0.jpg)](https://youtu.be/pft0-VGbpC4)
+[![Demo](http://img.youtube.com/vi/6tTen2gHb1o/0.jpg)](https://youtu.be/6tTen2gHb1o)
 
-
+※著作権の都合上、キャラクターのセリフボイス部分はミュートにしています。
 
 
 # 素材
